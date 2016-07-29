@@ -186,7 +186,7 @@ Answer for Question 6: ???
  * What are the most commonly used entities?
  * Make a tag cloud for this channel
 
-## Question 8
+## Question 8 (answer using R)
 
 How will you combine multiple different string like "Data", "Science", "in", "R", "and", "Python" as a single string "Data_Science_in_R_and_Python" ?
 
